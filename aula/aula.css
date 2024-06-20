@@ -1,0 +1,19 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+
+form {
+    background-color: greenyellow;
+    width: fit-content;
+    height: fit-content;
+}
+
+.enviar{
+    background-color: blue;
+    text-decoration: white;
+}
+
+.form{
+    text-align: center;
+}
